@@ -22,20 +22,20 @@ textual.
 
 ### GEOGRAFIA DO AMAZONAS
 - [ ] 1 - Municípios do estado do Amazonas: área, limites, hidrografia, distância da cidade de Manaus.
-- [ ] 2 Distribuição de municípios em microrregões.
-- [ ] 3 Aspectos humanos (população e grupos).
-- [ ] 4 Aspectos econômicos (Zona Franca de Manaus, indústria, impactos urbanos e sociais).
+- [ ] 2 - Distribuição de municípios em microrregões.
+- [ ] 3 - Aspectos humanos (população e grupos).
+- [ ] 4 - Aspectos econômicos (Zona Franca de Manaus, indústria, impactos urbanos e sociais).
 
 ### LEGISLAÇÃO INSTITUCIONAL E DO PODER JUDICIÁRIO
-- [ ] 1 Lei Complementar nº 17/1997 e suas alterações (Organização Judiciária do Estado do Amazonas).
-- [ ] 2 Lei Estadual nº 1.762/1986 e suas alterações (Estatuto dos Servidores Públicos Civis do Estado do Amazonas).
-- [ ] 3 Lei Estadual nº 3.226/2008 e suas alteraÁıes (Plano de Cargos, Carreiras e Vencimentos dos Servidores do Poder Judiciário do Estado do Amazonas).
-- [ ] 4 Metas Nacionais do Poder Judiciário 2019 (Justiça Estadual).
-- [ ] 5 Resoluções do Conselho Nacional de Justiça n.os 46/2007;125/2010 e suas alterações;
+- [ ] 1 - Lei Complementar nº 17/1997 e suas alterações (Organização Judiciária do Estado do Amazonas).
+- [ ] 2 - Lei Estadual nº 1.762/1986 e suas alterações (Estatuto dos Servidores Públicos Civis do Estado do Amazonas).
+- [ ] 3 - Lei Estadual nº 3.226/2008 e suas alteraÁıes (Plano de Cargos, Carreiras e Vencimentos dos Servidores do Poder Judiciário do Estado do Amazonas).
+- [ ] 4 - Metas Nacionais do Poder Judiciário 2019 (Justiça Estadual).
+- [ ] 5 - Resoluções do Conselho Nacional de Justiça n.os 46/2007;125/2010 e suas alterações;
         165/2012 e suas alterações; 194/2014; 201/2015;230/2016; 251/2018; 254/2018;270/2018; 284/2019. 
         
 ### Acessibilidade 
-- [ ]  1 Lei Federal nº 13.146/2015 e suas alterações (Lei Brasileira de inclusão da pessoa com deficiência)
+- [ ]  1 - Lei Federal nº 13.146/2015 e suas alterações (Lei Brasileira de inclusão da pessoa com deficiência)
 
 ### CARGO 13: Conhecimento Específicos - PROGRAMADOR
 - [ ] 1 - Lógica de programação.
