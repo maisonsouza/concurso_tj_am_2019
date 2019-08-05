@@ -34,7 +34,7 @@ textual.
 - [ ] 5 - Resoluções do Conselho Nacional de Justiça n.os 46/2007;125/2010 e suas alterações;
         165/2012 e suas alterações; 194/2014; 201/2015;230/2016; 251/2018; 254/2018;270/2018; 284/2019. 
         
-### Acessibilidade 
+#### Acessibilidade 
 - [ ]  1 - Lei Federal nº 13.146/2015 e suas alterações (Lei Brasileira de inclusão da pessoa com deficiência)
 
 ---
