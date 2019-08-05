@@ -2,7 +2,7 @@
 
 ## Conteúdo Programático
 
-### Lingua Portuguesa
+#### Lingua Portuguesa
 - [ ] 1 - Compreensão e interpretação de textos de gêneros variados.
 - [ ] 2 - Reconhecimento de tipos e gêneros textuais.
 - [ ] 3 - Domínio da ortografia oficial.
@@ -20,13 +20,13 @@ textual.
   - [ ] 5.5 - Emprego do sinal indicativo de crase.
   - [ ] 5.6 - Colocação dos pronomes àtonos.
 
-### Geografia do Amazonas
+#### Geografia do Amazonas
 - [ ] 1 - Municípios do estado do Amazonas: área, limites, hidrografia, distância da cidade de Manaus.
 - [ ] 2 - Distribuição de municípios em microrregões.
 - [ ] 3 - Aspectos humanos (população e grupos).
 - [ ] 4 - Aspectos econômicos (Zona Franca de Manaus, indústria, impactos urbanos e sociais).
 
-### LEGISLAÇÃO INSTITUCIONAL E DO PODER JUDICIÁRIO
+#### Legislação Insitucional e do Poder Juduciário
 - [ ] 1 - Lei Complementar nº 17/1997 e suas alterações (Organização Judiciária do Estado do Amazonas).
 - [ ] 2 - Lei Estadual nº 1.762/1986 e suas alterações (Estatuto dos Servidores Públicos Civis do Estado do Amazonas).
 - [ ] 3 - Lei Estadual nº 3.226/2008 e suas alteraÁıes (Plano de Cargos, Carreiras e Vencimentos dos Servidores do Poder Judiciário do Estado do Amazonas).
@@ -70,7 +70,7 @@ textual.
      - [ ] 7.2 Modelagem dimensional  e  análise  de  requisitos  para  sistemas  analíticos.
 - [ ] 8  Testes  de software  (Unidade,  Integração, Sistema, Aceitação, Regressão, Desempenho e Carga). 
 
-#### DESENVOLVIMENTO DE SISTEMAS
+#### DEesenvolvimento de Sistemas
 - [ ] 1 Bancos de dados relacionais.
      - [ ] 1.1 Sistemas gerenciadores de banco de dados: Oracle, MySQL e PostgreSQL.
             - [ ] 1.1.1 Conceitos básicos.
@@ -100,7 +100,7 @@ textual.
      - [ ] 5.3  Controles  e  testes  de segurança para aplicações web.
      - [ ] 5.4 Controles e testes de segurança para Web Services.
 
-#### INFRAESTRUTURA DE TI
+#### Infraestrutura de TI
 - [ ] 1 Redes de computadores.
   - [ ] 1.1 Endereçamento e protocolos da  família TCP/IP.
 - [ ] 2 Servidores  de  aplicação  Java  EE:  conceitos  básicos  e  noções  de  Administração.
@@ -116,7 +116,7 @@ textual.
   - [ ] 3.7 Principais algoritmos.
   - [ ] 3.8 Assinatura e certificação digital. PKI/ICP. 
 
-#### GESTÃO E GOVERNANÇA DE TI
+#### Gestão e Governança de TI
 - [ ] 1 Gestão de  segurança da informação.
     - [ ] 1.1 Normas NBR ISO/IEC 27001 e 27002.
     - [ ] 1.2 Gestão de riscos e continuidade de negócio.
@@ -132,7 +132,8 @@ textual.
     - [ ] 5.2 Disciplinas e formas de representação.
     - [ ] 5.3 Níveis de capacidade e maturidade.
     - [ ] 5.4 Processos e categorias de processos. 
-#### PROCESSO DIGITAL
+
+#### Processo Digital
 - [ ] 1 Lei nº 11.419/2006 e suas alterações. 
   
 ---
