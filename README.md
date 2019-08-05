@@ -37,6 +37,7 @@ textual.
 ### Acessibilidade 
 - [ ]  1 - Lei Federal nº 13.146/2015 e suas alterações (Lei Brasileira de inclusão da pessoa com deficiência)
 
+---
 
 ### Cargo 1: Analista Judiciário: Analista De Sistemas.
 #### Engenharia de software
