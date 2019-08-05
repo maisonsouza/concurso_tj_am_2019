@@ -178,7 +178,8 @@ textual.
   - [ ] 10.5 - Arquitetura distribuída.
   - [ ] 10.6 - Conceitos básicos de Datamining e Datawarehouse.
 - [ ] 11 - Conceitos de armazenamento de dados em disco e sistema de replicação de dados.
-- [ ] 12 - Testes de software.
-#### - [ ] 13 - PROCESSO DIGITAL: Lei nº 11.419/2006 e suas alterações
+ 12 - Testes de software.
+#### 13 - PROCESSO DIGITAL
+- [ ] Lei nº 11.419/2006 e suas alterações
 
 ---
