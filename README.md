@@ -20,7 +20,7 @@ textual.
   - [ ] 5.5 - Emprego do sinal indicativo de crase.
   - [ ] 5.6 - Colocação dos pronomes àtonos.
 
-### GEOGRAFIA DO AMAZONAS
+### Geografia do Amazonas
 - [ ] 1 - Municípios do estado do Amazonas: área, limites, hidrografia, distância da cidade de Manaus.
 - [ ] 2 - Distribuição de municípios em microrregões.
 - [ ] 3 - Aspectos humanos (população e grupos).
@@ -36,6 +36,105 @@ textual.
         
 ### Acessibilidade 
 - [ ]  1 - Lei Federal nº 13.146/2015 e suas alterações (Lei Brasileira de inclusão da pessoa com deficiência)
+
+
+### Cargo 1: Analista Judiciário: Analista De Sistemas.
+#### Engenharia de software
+- [ ] 1 Gerenciamento de processos de negócio.
+     - [ ] 1.1 Modelagem de processos.
+     - [ ] 1.2 Técnicas de análise de processos.
+     - [ ] 1.3 Desenho e melhoria de processos.
+     - [ ] 1.4 Integração de processos.
+     - [ ] 1.5 Noções  sobre  automação  de  processos  de  negócio  (BPM).
+- [ ] 2 Engenharia  de  requisitos:  conceitos  básicos, técnicas de elicitação e especificação.
+     - [ ] 2.1 Gerenciamento de requisitos.
+     - [ ] 2.2 Especificação de requisitos.
+     - [ ] 2.3 Técnicas  de  validação  de  requisitos.
+     - [ ] 2.4  Prototipação.
+- [ ] 3  Ciclo  de  vida  do  software.
+- [ ] 4  Metodologias  de desenvolvimento de software.
+     - [ ] 4.1 Metodologias ágeis: Scrum, XP, Kanban e TDD. 
+     - [ ] 4.2 Qualidade de software. MPS/BR. 
+- [ ] 5 Métricas e estimativas de software.
+     - [ ] 5.1 Análise por pontos de  função.
+     - [ ] 5.2 Conceitos básicos e aplicações.
+     - [ ] 5.3 Contagem em projetos de desenvolvimento: IFPUG e Nesma.
+     - [ ] 5.4 Contagem em projetos de manutenção.
+          - [ ] 5.4.1 IFPUG, Nesma e uso de deflatores.
+- [ ] 6 Análise e projeto orientados a objetos.
+     - [ ] 6.1 UML 2.2. 
+          - [ ] 6.1.1  Visão  geral,  modelos  e  diagramas.
+- [ ] 7 Modelagem  de  dados.
+     - [ ] 7.1 Modelo  relacional.
+     - [ ] 7.2 Modelagem dimensional  e  análise  de  requisitos  para  sistemas  analíticos.
+- [ ] 8  Testes  de software  (Unidade,  Integração, Sistema, Aceitação, Regressão, Desempenho e Carga). 
+
+#### DESENVOLVIMENTO DE SISTEMAS
+- [ ] 1 Bancos de dados relacionais.
+     - [ ] 1.1 Sistemas gerenciadores de banco de dados: Oracle, MySQL e PostgreSQL.
+            - [ ] 1.1.1 Conceitos básicos.
+     - [ ] 1.2 Noções de Administração.
+     - [ ] 1.3 Oracle PL/SQL (Procedural  Language/Structured Query  Language).
+     - [ ] 1.4  Banco  de  dados  NoSQL  (Key/Value,  Orientados  a Documentos e Grafos).
+     - [ ] 1.5 Técnicas para detecção de problemas e otimização de desempenho do SGBD e de consultas SQL.
+     - [ ] 1.6 Sistemas de suporte a decisão e gestão de conteúdo.
+     - [ ] 1.7 Arquitetura e aplicações de data warehousing, ETL e Olap.
+     - [ ] 1.8 Técnicas de modelagem e otimização de bases de dados multidimensionais.
+- [ ] 2 Desenvolvimento web em Java: JavaScript, HTML5, CSS3, WebSocket, Single Page Application (SPA).
+     - [ ] 2.1 Java EE e frameworks: Java Server Faces (JSF 1.x e 2.x), Enterprise Java Beans (EJB 3.x), Java Persistence API (JPA 2.x), JAX‐RS (2.x), Hibernate, JBoss Seam.
+     - [ ] 2.2 JMS.
+     - [ ] 2.3 Spring Framework.
+     - [ ] 2.4 JSon.
+     - [ ] 2.5 JUnit.
+     - [ ] 2.6 Jasper.
+     - [ ] 2.7 Noções e conceitos de desenvolvimento para dispositivos móveis.
+- [ ] 3 Análise estática de código fonte (Clean Code e ferramenta SonarQube).
+- [ ] 4 Interoperabilidade de sistemas.
+     - [ ] 4.1 Arquitetura orientada a serviços e Web Services.
+     - [ ] 4.2 Padrões XML, XSLT, UDDI, WSDL, SOAP e JSON.
+     - [ ] 4.3 REST.
+- [ ] 5 Qualidade de Software.
+     - [ ] 5.1 Segurança no  desenvolvimento.
+     - [ ] 5.2  Práticas  de  programação  segura  e  revisão  de  código.
+     - [ ] 5.3  Controles  e  testes  de segurança para aplicações web.
+     - [ ] 5.4 Controles e testes de segurança para Web Services.
+
+#### INFRAESTRUTURA DE TI
+- [ ] 1 Redes de computadores.
+  - [ ] 1.1 Endereçamento e protocolos da  família TCP/IP.
+- [ ] 2 Servidores  de  aplicação  Java  EE:  conceitos  básicos  e  noções  de  Administração.
+  - [ ] 2.1  Topologia  típica  de ambientes com alta disponibilidade e escalabilidade.
+  - [ ] 2.2 Balanceamento de carga, fail‐over e replicação de estado.
+3 Segurança da Informação.
+  - [ ] 3.1 Confidencialidade, integridade, disponibilidade, autenticidade e não repúdio.
+  - [ ] 3.2  Políticas  de  segurança.  Políticas  de  classificação  da  informação.
+  - [ ] 3.3  Sistemas  de  gestão  de segurança da informação.
+  - [ ] 3.4 Criptografia.
+  - [ ] 3.5 Conceitos básicos e aplicações.
+  - [ ] 3.6 Protocolos criptográficos. 
+  - [ ] 3.7 Principais algoritmos.
+  - [ ] 3.8 Assinatura e certificação digital. PKI/ICP. 
+
+#### GESTÃO E GOVERNANÇA DE TI
+- [ ] 1 Gestão de  segurança da informação.
+    - [ ] 1.1 Normas NBR ISO/IEC 27001 e 27002.
+    - [ ] 1.2 Gestão de riscos e continuidade de negócio.
+    - [ ] 1.3 Normas NBR ISO 22301e 27005.
+- [ ] 2 Gerenciamento de  projetos  –  PMBOK  5ª  edição.
+  - [ ] 2.1  Projetos  e  a  organização.
+  - [ ] 2.2  Escritório  de  projetos:  modelos  e características.
+  - [ ] 2.3 Processos, grupos de processos e área de conhecimento.
+- [ ] 3 Gerenciamento de serviços (ITIL v3): conceitos básicos, estrutura e objetivos.
+- [ ] 4 Governança de TI (COBIT 5): conceitos básicos, estrutura e objetivos.
+- [ ] 5 Qualidade de software: MPSBR.
+    - [ ] 5.1 Conceitos básicos e objetivos.
+    - [ ] 5.2 Disciplinas e formas de representação.
+    - [ ] 5.3 Níveis de capacidade e maturidade.
+    - [ ] 5.4 Processos e categorias de processos. 
+#### PROCESSO DIGITAL
+- [ ] 1 Lei nº 11.419/2006 e suas alterações. 
+  
+---
 
 ### CARGO 13: Conhecimento Específicos - PROGRAMADOR
 - [ ] 1 - Lógica de programação.
@@ -78,4 +177,6 @@ textual.
   - [ ] 10.6 - Conceitos básicos de Datamining e Datawarehouse.
 - [ ] 11 - Conceitos de armazenamento de dados em disco e sistema de replicação de dados.
 - [ ] 12 - Testes de software.
-- [ ] 13 - PROCESSO DIGITAL: Lei nº 11.419/2006 e suas alterações
+#### - [ ] 13 - PROCESSO DIGITAL: Lei nº 11.419/2006 e suas alterações
+
+---
