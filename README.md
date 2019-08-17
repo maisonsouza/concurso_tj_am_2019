@@ -39,6 +39,18 @@ textual.
 
 ---
 
+CARGO 1: ANALISTA JUDICIÁRIO – ESPECIALIDADE: ANALISTA DE SISTEMAS
+REQUISITO: diploma, devidamente registrado, de conclusão de curso de nível superior na área de Tecnologia
+da Informação, fornecido por instituição de ensino superior reconhecida pelo Ministério da Educação (MEC).
+
+DESCRIÇÃO SUMÁRIA DAS ATIVIDADES: realizar atividade de nível superior de natureza técnica relacionada
+ao planejamento, desenvolvimento, implantação e manutenção de sistemas de informação, estudando as
+necessidades, possibilidades e métodos relacionados, a fim de assegurar a eficácia e a eficiência do sistema
+organizacional, bem como executar atividades correlatas, de mesma natureza e grau de complexidade
+relativa à sua área de formação.
+
+---
+
 ### Cargo 1: Analista Judiciário: Analista De Sistemas.
 #### Engenharia de software
 - [ ] 1 Gerenciamento de processos de negócio.
@@ -70,7 +82,7 @@ textual.
      - [ ] 7.2 Modelagem dimensional  e  análise  de  requisitos  para  sistemas  analíticos.
 - [ ] 8  Testes  de software  (Unidade,  Integração, Sistema, Aceitação, Regressão, Desempenho e Carga). 
 
-#### DEesenvolvimento de Sistemas
+#### Desenvolvimento de Sistemas
 - [ ] 1 Bancos de dados relacionais.
      - [ ] 1.1 Sistemas gerenciadores de banco de dados: Oracle, MySQL e PostgreSQL.
             - [ ] 1.1.1 Conceitos básicos.
